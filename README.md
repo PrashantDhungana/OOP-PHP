@@ -4,12 +4,12 @@ So your efforts are must.
 But these are just some of the concepts.OOP is much more than that.
 
 Some of the remaining topic that weren't covered are:
-Constructor and Destructor 
-Static method and static Class
-Interface
-Trait
-$this v/s self
-Passing a class to a method
+Constructor and Destructor,
+Static method and static Class,
+Interface,
+Trait,
+$this v/s self,
+Passing a class to a method,
 AND MUCH MORE 
 
 So yeti matra hola vanera leave chahi nagara.Aafno best deu sabai le and All the Best for the Project.
