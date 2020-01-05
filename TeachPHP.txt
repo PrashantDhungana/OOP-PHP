@@ -1,0 +1,37 @@
+;MVC own:
+https://www.youtube.com/watch?v=6HJXR4G_szo
+
+Class and object
+Diamond Problem
+Abstract Class and Abstract methods
+Interface
+Trait
+constructor and destructor
+Self??
+Static method and class
+namespace//Virtual folder
+
+
+Why OOP??
+More Works can be done in less time using inheritance
+
+Frameworks and all libs and packages run on OOP.
+
+Foundations:
+Encapsulation,Wrapping up data:Class and use of visibility 
+Inheritance:extends
+Abstraction,Abstraction is selecting data from a larger pool to show only the relevant details to the object:
+Polymorphism:Interface
+
+
+MVC:
+In procedural,all the MVC logic written in the same file so we can't reuse them afterwards but using OOP it is possible.
+
+Visibility:
+Private members can only be accessed from inside the class itself.
+
+Protected members can only be accessed from inside the class it self and its child classes.
+
+Public members can be accessed from anywhere - outside the class, inside the class it self and from child classes.
+
+//For Visibility
